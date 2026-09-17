@@ -8,7 +8,7 @@
 
 ## 👋 Sobre mí
 
-Durante más de 9 años he liderado procesos HSEQ, reduciendo la accidentalidad laboral en 45%, alcanzando 93% de cumplimiento normativo y sosteniendo 247 días sin accidentes incapacitantes en operaciones de alto riesgo (izajes, trabajo en alturas, espacios confinados). Todo ese trabajo se sostuvo en un mismo hábito: **medir, analizar y tomar decisiones con datos**.
+Durante más de 9 años he lideré procesos HSEQ, reduciendo la accidentalidad laboral en 45%, alcanzando 93% de cumplimiento normativo y sosteniendo 247 días sin accidentes incapacitantes en operaciones de alto riesgo (izajes, trabajo en alturas, espacios confinados). Todo ese trabajo se sostuvo en un mismo hábito: **medir, analizar y tomar decisiones con datos**.
 
 Hoy estoy formalizando esa habilidad con SQL, Excel avanzado y Power BI, para pasar de gestionar indicadores HSE en campo a construir los análisis y dashboards que los sustentan.
 
