@@ -2,7 +2,7 @@
 
 **Ingeniero Industrial | +9 años liderando HSEQ en energía, hidrocarburos y construcción | En transición hacia Análisis de Datos**
 
-📧 nilsonortizy85@gmail.com · 📍 Colombia · 💼 [LinkedIn](#) · 📄 [Ver CV](#)
+📧 nilsonortizy85@gmail.com · 📍 Colombia · 💼 [LinkedIn](https://www.linkedin.com/in/nilsonortizyepes) · 📄 [Ver CV](https://github.com/nilsonortizy85/nilsonortiz_data/blob/main/CV_Nilson_Ortiz_Yepes_DataAnalyst.pdf)
 
 ---
 
