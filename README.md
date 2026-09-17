@@ -29,7 +29,7 @@ Cada proyecto incluye: el problema de negocio, los datos usados, el proceso de a
 
 ## 🎓 Formación
 
-Ingeniero Industrial (Universidad Autónoma del Caribe) · Especialista en Gerencia de SST · Especialista en Gestión Ambiental · Especialista en Gerencia del Talento Humano
+Ingeniero Industrial· Especialista en Gerencia de SST · Especialista en Gestión Ambiental · Especialista en Gerencia del Talento Humano
 
 ## 📫 Contacto
 
