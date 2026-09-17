@@ -1,4 +1,3 @@
-[01-accidentalidad-laboral-README.md](https://github.com/user-attachments/files/32355282/01-accidentalidad-laboral-README.md)
 # Análisis de accidentalidad laboral: frecuencia y severidad por área
 
 ## 1. El problema de negocio
