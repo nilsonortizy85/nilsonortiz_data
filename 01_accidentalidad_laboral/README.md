@@ -21,7 +21,7 @@ En operaciones industriales (izajes, trabajo en alturas, espacios confinados, el
 
 ## 5. Código y dashboard
 - Consulta SQL completa: [`analisis.sql`](./analisis.sql)
-- Dashboard interactivo: *[`01_analisis_accidentalidad`]((https://github.com/nilsonortizy85/nilsonortiz_data/blob/main/01_analisis_accidentalidad_Dashboard.jpg))*
+- Dashboard interactivo: *[`01_analisis_accidentalidad`](./https://github.com/nilsonortizy85/nilsonortiz_data/blob/main/01_analisis_accidentalidad_Dashboard.jpg)*
 - Dataset: [`datos.csv`](./datos.csv)
 
 ---
