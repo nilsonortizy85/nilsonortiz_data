@@ -20,7 +20,7 @@ Los incidentes rara vez son aleatorios: suelen concentrarse en ciertos turnos, d
 
 ## 5. Código y dashboard
 - Consulta SQL completa: [`analisis.sql`](./analisis.sql)
-- Dashboard interactivo: *(agregar link de Power BI publicado)*
+- Dashboard interactivo: ![Dashboard del proyecto](./03_patrones_incidentes.png)
 - Dataset: [`datos.csv`](./datos.csv)
 
 ---
