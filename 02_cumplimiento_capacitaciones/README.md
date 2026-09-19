@@ -20,7 +20,7 @@ El cumplimiento de capacitaciones y el cierre de hallazgos de inspección son in
 
 ## 5. Código y dashboard
 - Consulta SQL completa: [`analisis.sql`](./analisis.sql)
-- Dashboard interactivo: *(agregar link de Power BI publicado)*
+- Dashboard interactivo: ![Dashboard del proyecto](./02_cumplimiento_capacitaciones_hallazgos.png)
 - Dataset: [`datos.csv`](./datos.csv)
 
 ---
