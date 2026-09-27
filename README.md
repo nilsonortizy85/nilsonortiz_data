@@ -2,6 +2,7 @@
 
 **Ingeniero Industrial | +9 años liderando HSEQ en energía, hidrocarburos y construcción | En transición hacia Análisis de Datos**
 
+
 📧 nilsonortizy85@gmail.com · 📍 Colombia · 💼 [LinkedIn](https://www.linkedin.com/in/nilsonortizyepes) · 📄 [Ver CV](https://github.com/nilsonortizy85/nilsonortiz_data/blob/main/CV_Nilson_Ortiz_Yepes_DataAnalyst.pdf)
 
 ---
@@ -30,9 +31,10 @@ Cada proyecto incluye: el problema de negocio, los datos usados, el proceso de a
 ## 🎓 Formación
 
 Ingeniero Industrial· Especialista en Gerencia de SST · Especialista en Gestión Ambiental · Especialista en Gerencia del Talento Humano
+Data Analyst | SQL  |Power BI|Excel
 
 ## 📫 Contacto
 
-¿Buscas un analista junior con base sólida en gestión de indicadores y pensamiento analítico aplicado a operaciones reales? Hablemos.
+¿Buscas un analista de datos con base sólida en gestión de indicadores y pensamiento analítico aplicado a operaciones reales? Hablemos.
 
 📧 nilsonortizy85@gmail.com · 📱 300 671 4725
